@@ -1,0 +1,8 @@
+<?php
+
+	$config['facebook_app_id'] 			= '359123690787289';
+	$config['facebook_api_secret'] 		= 'd3291490dec3905e3a063e91aece0b6c';
+	$config['facebook_default_scope']	= ''; // E.G 'read_stream,birthday,users_events,rsvp_event'
+	$config['facebook_login_url']		= 'welcome';
+	$config['facebook_logout_url']		= 'welcome';
+	$config['facebook_api_url'] 		= 'https://graph.facebook.com/'; // Just in case it changes.
